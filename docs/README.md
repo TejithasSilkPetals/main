@@ -1,33 +1,18 @@
-<img src="../logo.png" alt="Image 1" width="200">
+<img src="logo.png" alt="Image 1" width="200">
 
 # Tejitha's Silk Petals
 Apperal, Ethnic ware, Fashion Jewelry, Customizable Consumes  
 
-## ✨ Your Moments, Perfectly Framed and TimeBoxed for Life
-
-**TejithasSilkPetals** is your definitive source for transforming special occasions into cherished, timeless memories.
-
-Our curated collections empower you to celebrate culture and connection:
-
-* **Ethnic Wear Excellence:** Find the perfect, stunning outfit for every ceremony, festival, and milestone.
-* **Seamless Family Themes:** Effortlessly create **coordinated looks** across all ages and styles, ensuring every family portrait is a masterpiece.
-* **Complete the Look:** Time-box your memories with our **Fashion Jewelry** and **Customizable Consumables**—from personalized gifts to coordinated accessories—to ensure your celebration is unified, personal, and unforgettable.
-
-**We don't just sell fashion; we provide the perfect selections to make your special moments legendary.**
+## Your Moments, Perfectly Framed and TimeBoxed for Life
 
 
-# ✨ Welcome to TejithasSilkPetals! ✨
+# Welcome to TejithasSilkPetals!
 # Your Destination for Style, Culture, and Personal Expression
-
-<div class="home-intro-message">
-    <p>Thank you for exploring TejithasSilkPetals – your curated marketplace where fashion meets heritage and creativity knows no bounds. We are a celebration of individuality, quality craftsmanship, and conscious consumerism.</p>
-    <p>Whether you're looking for the perfect outfit, a statement accessory, or a truly unique gift, we have something exquisite just for you.</p>
-</div>
 
 <div class="home-columns">
 
     <div class="home-block home-app-feature">
-        <h2 class="home-title">👗 Apparel: Dress Your Confidence</h2>
+        <h2 class="home-title">Apparel: Dress Your Confidence</h2>
         <p class="home-hook">Fashion that feels as good as it looks. Discover effortless style for your everyday wardrobe.</p>
         <ul class="home-list">
             <li>Contemporary Chic</li>
@@ -38,7 +23,7 @@ Our curated collections empower you to celebrate culture and connection:
     </div>
 
     <div class="home-block home-ethnic-feature">
-        <h2 class="home-title">👑 Ethnic Wear: Threads of Tradition</h2>
+        <h2 class="home-title">Ethnic Wear: Threads of Tradition</h2>
         <p class="home-hook">Celebrate culture and heritage with stunning artistry perfect for weddings and festivals.</p>
         <ul class="home-list">
             <li>Artisan Craftsmanship</li>
@@ -49,7 +34,7 @@ Our curated collections empower you to celebrate culture and connection:
     </div>
 
     <div class="home-block home-jewelry-feature">
-        <h2 class="home-title">💎 Fashion Jewelry: The Perfect Sparkle</h2>
+        <h2 class="home-title">Fashion Jewelry: The Perfect Sparkle</h2>
         <p class="home-hook">Complete your look and make a statement without breaking the bank.</p>
         <ul class="home-list">
             <li>Bold Statement Pieces</li>
@@ -60,7 +45,7 @@ Our curated collections empower you to celebrate culture and connection:
     </div>
 
     <div class="home-block home-custom-feature">
-        <h2 class="home-title">🎨 Customizable: Design Your World</h2>
+        <h2 class="home-title">Customizable: Design Your World</h2>
         <p class="home-hook">Unleash your inner artist! Turn everyday items into personal masterpieces or unique gifts.</p>
         <ul class="home-list">
             <li>Truly Unique Gifts</li>
