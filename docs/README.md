@@ -1,4 +1,4 @@
-<img src="logo.png" alt="Image 1" width="200">
+<img src="banner.png" alt="Home" width="600">
 
 # Tejitha's Silk Petals
 Apperal, Ethnic ware, Fashion Jewelry, Customizable Consumes  
