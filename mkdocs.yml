@@ -3,10 +3,14 @@ site_dir: site
 docs_dir: docs/
 theme:
   name: material
+  
+  # --- ADD THIS LINE ---
+  logo: logo.png
+  # ---------------------
 
   palette:
     scheme: default #slate #> dark mode
-    primary: indigo
+    primary: white
     accent: blue
 
   features:
