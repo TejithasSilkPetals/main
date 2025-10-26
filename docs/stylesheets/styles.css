@@ -1,62 +1,58 @@
-/* -------------------------------------- */
-/* 1. GLOBAL RESET AND LAYOUT             */
-/* -------------------------------------- */
+/* ============================================== */
+/* === GLOBAL & PRODUCT CATALOGUE STYLES === */
+/* ============================================== */
+
+/* NOTE: Changed font-family to 'Roboto' for consistency with MkDocs theme */
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Roboto', sans-serif; 
     margin: 0;
     padding: 20px;
     background-color: #f8f8f8; /* Very light background */
 }
 
-/* --- GRID CONTAINER --- */
+/* --- PRODUCT GRID CONTAINER --- */
 .product-grid {
-    /* 1. Use CSS Grid for the layout */
     display: grid;
-    /* 2. Define minimum column width and allow 2 to 4 columns */
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    /* 3. Add space between the grid items */
+    /* Allows 2 to 4 columns on desktop */
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); 
     gap: 30px;
     max-width: 1200px;
     margin: 0 auto;
 }
 
 /* -------------------------------------- */
-/* 2. PRODUCT CARD STYLING (No Borders)   */
+/* PRODUCT CARD STYLING                   */
 /* -------------------------------------- */
 .product-card {
     background-color: #ffffff;
     border-radius: 10px; 
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Subtle shadow gives definition without lines */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     text-align: center;
-    overflow: hidden; /* Ensures image corners are contained */
+    overflow: hidden;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* Hover effect for interaction */
 .product-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 
-/* --- IMAGE CONTAINER --- */
 .product-image {
     width: 100%;
-    height: 300px; /* Fixed height for consistent grid appearance */
+    height: 300px; 
     overflow: hidden;
     position: relative;
 }
 
 .product-image img {
-    /* Ensures the image fills the container and maintains aspect ratio */
     width: 100%;
     height: 100%;
-    object-fit: cover; /* Crops the image to fill the space without distortion */
+    object-fit: cover;
     display: block;
 }
 
-/* --- DETAILS SECTION --- */
 .product-details {
-    padding: 15px 20px 25px; /* Padding inside the card */
+    padding: 15px 20px 25px;
 }
 
 .product-name {
@@ -69,7 +65,7 @@ body {
 
 .product-price {
     font-size: 1.2em;
-    color: #8B4513; /* Saddle Brown - a rich tone for pricing */
+    color: #8B4513; 
     font-weight: bold;
     margin-bottom: 10px;
 }
@@ -80,21 +76,18 @@ body {
     margin: 2px 0;
 }
 
-/* -------------------------------------- */
-/* 3. TAGS AND BUTTONS                    */
-/* -------------------------------------- */
 .product-tags {
     margin: 10px 0;
-    min-height: 25px; /* Ensures consistent tag spacing */
+    min-height: 25px;
 }
 
 .product-tags span {
     display: inline-block;
-    background-color: #f0fff0; /* Honeydew background for tags */
-    color: #2E8B57; /* Sea Green text */
+    background-color: #f0fff0;
+    color: #2E8B57;
     padding: 4px 10px;
     margin: 3px 2px;
-    border-radius: 50px; /* Pill shape for tags */
+    border-radius: 50px;
     font-size: 0.75em;
     font-weight: 500;
 }
@@ -103,7 +96,7 @@ body {
     display: inline-block;
     margin-top: 15px;
     padding: 10px 25px;
-    background-color: #5F9EA0; /* Cadet Blue */
+    background-color: #5F9EA0;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -113,5 +106,87 @@ body {
 }
 
 .view-details-btn:hover {
-    background-color: #4682b4; /* Steel Blue on hover */
+    background-color: #4682b4;
+}
+
+/* ============================================== */
+/* === HOME PAGE FEATURE STYLES (Prefixed) === */
+/* ============================================== */
+
+.home-columns {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 30px; 
+    padding: 20px 0;
+    margin: 0 -10px;
+}
+
+.home-block {
+    /* Each block takes up equal space */
+    flex: 1 1 200px; 
+    
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08); 
+    transition: transform 0.3s ease-in-out;
+    border-left: 5px solid; 
+}
+
+.home-block:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Specific Feature Colors */
+/* Using the same color scheme as before, applied to the border-left */
+.home-app-feature { border-left-color: #3F51B5; } 
+.home-ethnic-feature { border-left-color: #FF5722; } 
+.home-jewelry-feature { border-left-color: #FFC107; } 
+.home-custom-feature { border-left-color: #2196F3; } 
+
+.home-intro-message {
+    padding: 10px 0 20px;
+    font-size: 1.1em;
+    color: #444;
+}
+
+.home-title {
+    font-size: 1.6em;
+    color: #2c3e50;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.home-hook {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.home-list {
+    padding-left: 20px;
+    margin: 0 0 20px 0;
+    list-style-type: '👉';
+}
+
+.home-list li {
+    margin-bottom: 5px;
+    padding-left: 10px;
+}
+
+/* Call to action link button */
+.home-link {
+    display: inline-block;
+    padding: 8px 15px;
+    background-color: #3F51B5;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.home-link:hover {
+    background-color: #28377C;
 }

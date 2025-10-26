@@ -1,4 +1,6 @@
-# TejithasSilkPetals
+<img src="../logo.png" alt="Image 1" width="200">
+
+# Tejitha's Silk Petals
 Apperal, Ethnic ware, Fashion Jewelry, Customizable Consumes  
 
 ## ✨ Your Moments, Perfectly Framed and TimeBoxed for Life
@@ -15,52 +17,60 @@ Our curated collections empower you to celebrate culture and connection:
 
 
 # ✨ Welcome to TejithasSilkPetals! ✨
+# Your Destination for Style, Culture, and Personal Expression
 
-**Your Destination for Style, Culture, and Personal Expression**
+<div class="home-intro-message">
+    <p>Thank you for exploring TejithasSilkPetals – your curated marketplace where fashion meets heritage and creativity knows no bounds. We are a celebration of individuality, quality craftsmanship, and conscious consumerism.</p>
+    <p>Whether you're looking for the perfect outfit, a statement accessory, or a truly unique gift, we have something exquisite just for you.</p>
+</div>
 
-## 👋 Hello, Trendsetter!
+<div class="home-columns">
 
-Thank you for exploring TejithasSilkPetals – your curated marketplace where fashion meets heritage and creativity knows no bounds. We are more than just a store; we are a celebration of individuality, quality craftsmanship, and conscious consumerism.
+    <div class="home-block home-app-feature">
+        <h2 class="home-title">👗 Apparel: Dress Your Confidence</h2>
+        <p class="home-hook">Fashion that feels as good as it looks. Discover effortless style for your everyday wardrobe.</p>
+        <ul class="home-list">
+            <li>Contemporary Chic</li>
+            <li>Quality, Luxurious Fabrics</li>
+            <li>Seasonal Must-Haves</li>
+        </ul>
+        <a href="EthnicWear/EthnicWear-Main.md" class="home-link">Shop Apparel</a>
+    </div>
 
-Whether you're looking for the perfect outfit for a special occasion, a statement accessory, or a truly unique gift, we have something exquisite just for you.
+    <div class="home-block home-ethnic-feature">
+        <h2 class="home-title">👑 Ethnic Wear: Threads of Tradition</h2>
+        <p class="home-hook">Celebrate culture and heritage with stunning artistry perfect for weddings and festivals.</p>
+        <ul class="home-list">
+            <li>Artisan Craftsmanship</li>
+            <li>Diverse Range (Sarees, Lehengas)</li>
+            <li>Cultural Connect</li>
+        </ul>
+        <a href="Jewellery/Jewelry-Main.md" class="home-link">Explore Tradition</a>
+    </div>
 
----
+    <div class="home-block home-jewelry-feature">
+        <h2 class="home-title">💎 Fashion Jewelry: The Perfect Sparkle</h2>
+        <p class="home-hook">Complete your look and make a statement without breaking the bank.</p>
+        <ul class="home-list">
+            <li>Bold Statement Pieces</li>
+            <li>Mix & Match Versatility</li>
+            <li>Constantly Trend-Focused</li>
+        </ul>
+        <a href="Jewellery/Jewelery-Catlogue.md" class="home-link">Find Your Sparkle</a>
+    </div>
 
-## 🌟 Our Collections: Style with a Story
+    <div class="home-block home-custom-feature">
+        <h2 class="home-title">🎨 Customizable: Design Your World</h2>
+        <p class="home-hook">Unleash your inner artist! Turn everyday items into personal masterpieces or unique gifts.</p>
+        <ul class="home-list">
+            <li>Truly Unique Gifts</li>
+            <li>Express Your Personality</li>
+            <li>Easy, Intuitive Design Process</li>
+        </ul>
+        <a href="#" class="home-link">Start Creating</a>
+    </div>
 
-### 1. 👗 Apparel: Dress Your Confidence
-
-We believe fashion should feel as good as it looks. Our apparel line is designed for the modern individual who values both style and comfort.
-
-* **Contemporary Chic:** Effortlessly stylish pieces for your everyday wardrobe, work, and casual outings.
-* **Quality Fabrics:** Focus on materials that last and feel luxurious on your skin.
-* **Seasonal Must-Haves:** Stay ahead of the curve with our regularly updated seasonal collections.
-
-### 2. 👑 Ethnic Wear: Threads of Tradition
-
-Celebrate the richness of culture and heritage with our stunning ethnic wear collection. Perfect for festivals, weddings, and special gatherings, each piece is a work of art.
-
-* **Artisan Craftsmanship:** Featuring authentic embroideries, weaves, and traditional techniques.
-* **Diverse Range:** From elegant **[e.g., Sarees/Lehengas/Kurtas]** to contemporary ethnic fusion wear.
-* **Cultural Connect:** Wear a piece of history, beautifully modernized for today’s world.
-
-### 3. 💎 Fashion Jewelry: The Perfect Sparkle
-
-Complete your look with our hand-picked selection of fashion jewelry. Designed to make a statement without breaking the bank, these pieces are your secret weapon for instant glamour.
-
-* **Statement Pieces:** Bold necklaces, intricate earrings, and unique rings for any occasion.
-* **Mix & Match:** Versatile designs that transition seamlessly from day to night.
-* **Trend-Focused:** Constantly updating our inventory to reflect the latest runway and street style trends.
-
-### 4. 🎨 Customizable Consumables: Design Your World
-
-Unleash your inner artist! Our customizable consumables turn everyday items into personal masterpieces or unforgettable gifts.
-
-* **Truly Unique Gifts:** Personalize **[e.g., Mugs, T-shirts, Phone Cases, Stationery]** with photos, names, or custom designs.
-* **Express Yourself:** Create items that perfectly match your personality or brand.
-* **Easy Design Process:** Simple and intuitive tools to bring your creative vision to life.
-
----
+</div>
 
 ## 💖 Why Choose TejithasSilkPetals?
 
