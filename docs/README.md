@@ -5,7 +5,7 @@
 ## Your Moments, Perfectly Framed and TimeBoxed for Life
 
 
-# Your Destination for Style, Culture, and Personal Expression
+### Your Destination for Style, Culture, and Personal Expression
 
 <div class="home-columns">
 
@@ -66,7 +66,7 @@
 
 🟢 📞 WhatsApp business profile and contact : 647 448 7156
 
-### Accepted Payment Methods
+## Accepted Payment Methods
 
 * **Credit Card:** 💳 We accept all major credit cards, including **Visa, Mastercard, American Express**, and **Discover**.
 * **Interac e-Transfer:** 📧💸 Send payments directly from your bank account to our designated email address. *(Please ensure **auto-deposit** is set up or use the security answer: \[Your Answer]).*
