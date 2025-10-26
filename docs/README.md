@@ -1,12 +1,10 @@
 <img src="banner.png" alt="Home" width="600">
 
-# Tejitha's Silk Petals
-Apperal, Ethnic ware, Fashion Jewelry, Customizable Consumes  
+# Apperal, Ethnic ware, Fashion Jewelry, Customizable Consumes  
 
 ## Your Moments, Perfectly Framed and TimeBoxed for Life
 
 
-# Welcome to TejithasSilkPetals!
 # Your Destination for Style, Culture, and Personal Expression
 
 <div class="home-columns">
@@ -19,7 +17,7 @@ Apperal, Ethnic ware, Fashion Jewelry, Customizable Consumes
             <li>Quality, Luxurious Fabrics</li>
             <li>Seasonal Must-Haves</li>
         </ul>
-        <a href="EthnicWear/EthnicWear-Main.md" class="home-link">Shop Apparel</a>
+        <a href="https://tejithassilkpetals.github.io/main/EthnicWear/EthnicWear-Main/" class="home-link">Ethnic Apparel</a>
     </div>
 
     <div class="home-block home-ethnic-feature">
